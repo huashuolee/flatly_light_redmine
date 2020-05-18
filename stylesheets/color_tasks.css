@@ -25,20 +25,19 @@ tr.odd.priority-2 td, tr.even.priority-2 td { border-color: #fff; }
 
 /* High P2  */
 tr.odd.priority-3, table.list tbody tr.odd.priority-3:hover { }
-tr.odd.priority-3 { background: #fff; }
-/*tr.odd.priority-3 { background: #dff0d8; } */
+tr.odd.priority-3 { background: #dff0d8; } 
 tr.even.priority-3, table.list tbody tr.even.priority-3:hover { }
-tr.even.priority-3 { background: #fff; }
+tr.even.priority-3 { background: #dff0d8; }
 tr.priority-3 a { }
-tr.odd.priority-3 td, tr.even.priority-3 td { border-color:#fff; }
+tr.odd.priority-3 td, tr.even.priority-3 td { border-color:#dff0d8; }
 
 /* Urgent P1 #f2dede */
 tr.odd.priority-4, table.list tbody tr.odd.priority-4:hover { }
-tr.odd.priority-4 { background: #f2dede; }
+tr.odd.priority-4 { background: #fec0c0; }
 tr.even.priority-4, table.list tbody tr.even.priority-4:hover { }
-tr.even.priority-4 { background: #f2dede; }
+tr.even.priority-4 { background: #fec0c0; }
 tr.priority-4 a { }
-tr.odd.priority-4 td, tr.even.priority-4 td { border-color:#f2dede; }
+tr.odd.priority-4 td, tr.even.priority-4 td { border-color:#fec0c0; }
 
 /* Immediately P0 #fe4040 */
 tr.odd.priority-5, table.list tbody tr.odd.priority-5:hover { }
